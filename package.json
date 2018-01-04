@@ -1,6 +1,6 @@
 {
   "name": "date-fns",
-  "version": "2.0.0-alpha.8",
+  "version": "2.0.0-alpha.9",
   "side-effects": false,
   "contributors": [
     "Sasha Koss <koss@nocorp.me>",
